@@ -1,1 +1,3 @@
 # Price_optimization
+
+In this notebook, our objective is to explore a range of items and perform an analysis on specific products to uncover their optimal pricing strategies. Determining the optimal price is essential for businesses to enhance profitability.Our initial step involved delving into the dataset to gain a comprehensive understanding of its contents. This included computing the price elasticity for each product individually. Before this analysis, we filtered out holiday data, concentrating solely on business days to ensure a more precise examination.Subsequently, we employed the Ordinary Least Squares (OLS) model to ascertain the optimal pricing for the products.
